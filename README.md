@@ -19,3 +19,4 @@ Welcome to the Jokes App! This web application allows users to enter jokes and t
 - **SQL Server:** The application utilizes SQL Server as the database management system for storing jokes and related information.
 - **HTML/CSS/JavaScript:** Frontend components are developed using HTML, CSS, and JavaScript to create an interactive and visually appealing user interface.
 
+![Image Alt Text](joke app pictures/welcome page.png)
