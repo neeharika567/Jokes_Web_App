@@ -19,4 +19,12 @@ Welcome to the Jokes App! This web application allows users to enter jokes and t
 - **SQL Server:** The application utilizes SQL Server as the database management system for storing jokes and related information.
 - **HTML/CSS/JavaScript:** Frontend components are developed using HTML, CSS, and JavaScript to create an interactive and visually appealing user interface.
 
-![Image Alt Text](joke app pictures/welcome page.png)
+![Welcome page](https://github.com/neeharika567/Jokes_Web_App/blob/main/jokes%20app%20pictures/welcome%20page.png)
+
+![Jokes](https://github.com/neeharika567/Jokes_Web_App/blob/main/jokes%20app%20pictures/joke%20list.png)
+
+![Jokes will be displayed only after user can't guess the answer](https://github.com/neeharika567/Jokes_Web_App/blob/main/jokes%20app%20pictures/joke.png)
+
+![Search Function](https://github.com/neeharika567/Jokes_Web_App/blob/main/jokes%20app%20pictures/search.png)
+
+![On pressing search, the related joke will be displayed](https://github.com/neeharika567/Jokes_Web_App/blob/main/jokes%20app%20pictures/search1.png)
